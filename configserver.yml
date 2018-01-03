@@ -1,0 +1,4 @@
+nfo.description: configserver
+---
+spring:
+  profiles: cloud
