@@ -1,4 +1,3 @@
-application.yml#default config
 info:
   description: Spring Cloud Config Repo
   url: https://github.com:peerlesszh/wzh-config-repo
