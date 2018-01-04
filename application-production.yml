@@ -5,9 +5,9 @@ info:
 
 ---
 spring:
-  profiles: dev
+  profiles: def
 properties:
-  option1: Test value1
+  option1: production value1
 
 ---
 spring:

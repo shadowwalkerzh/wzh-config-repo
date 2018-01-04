@@ -1,0 +1,4 @@
+#This is a sub dir property text.
+config:
+  cloud:
+    test-value: Test subdir config

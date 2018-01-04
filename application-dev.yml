@@ -1,11 +1,11 @@
-#default config
+application.yml#default config
 info:
   description: Spring Cloud Config Repo
   url: https://github.com:peerlesszh/wzh-config-repo
 
 ---
 spring:
-  profiles: dev
+  profiles: def
 properties:
   option1: Test value1
 

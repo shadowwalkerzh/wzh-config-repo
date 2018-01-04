@@ -1,4 +1,6 @@
-nfo.description: configserver
+# default configserver with property key: spring.config.name
+info:
+  description: configserver
 ---
 spring:
   profiles: cloud

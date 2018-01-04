@@ -5,9 +5,9 @@ info:
 
 ---
 spring:
-  profiles: dev
+  profiles: def
 properties:
-  option1: Test value1
+  option1: Test staging value1
 
 ---
 spring:

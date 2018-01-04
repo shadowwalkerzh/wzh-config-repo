@@ -1,0 +1,17 @@
+config:
+  client1: CONFIG-CLIENT1
+
+---
+spring:
+  profiles: dev
+config:
+  cloud:
+    test-value: Config staging Value
+
+---
+spring:
+  profiles: cloud
+config:
+  cloud:
+    test-value: Config Cloud staging Value
+
