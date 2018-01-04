@@ -5,7 +5,7 @@ info:
 
 ---
 spring:
-  profiles: def
+  profiles: dev
 properties:
   option1: production value1
 

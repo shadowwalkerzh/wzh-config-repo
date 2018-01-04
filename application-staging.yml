@@ -5,7 +5,7 @@ info:
 
 ---
 spring:
-  profiles: def
+  profiles: production
 properties:
   option1: Test staging value1
 
